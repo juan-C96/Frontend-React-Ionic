@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "InicialHibridas",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

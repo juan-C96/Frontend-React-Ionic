@@ -1,0 +1,8 @@
+{
+  "name": "InicialHibridas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "f0005831"
+}
